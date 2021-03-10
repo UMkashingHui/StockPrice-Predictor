@@ -1,3 +1,3 @@
-# Medical-Management-System
-This a project of database class in my undergraduate career, programmed by JAVA. 
-Programmed Difficulties:1.JDBC 
+# StockPrice-Predictor
+This a project of High Frequency Trading class in my postgraduate career, programmed by Python. 
+Used LSTM-model to predict the S&P500 trend.
